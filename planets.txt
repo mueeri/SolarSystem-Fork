@@ -9,3 +9,4 @@ Jupiter
  - Io
  - Europa
 Saturn
+Uranus
